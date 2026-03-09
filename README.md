@@ -2,6 +2,8 @@
 
 - **Description:** A minimal command-line program that reads three remainders and three moduli from standard input and computes a solution to the corresponding system of congruences (modulo the product of the moduli).
 
+- **Demo link:** https://onlinegdb.com/zcHwXMmH1
+
 ![interface](images/image.png)
 
 **Build**
